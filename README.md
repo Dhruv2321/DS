@@ -1,2 +1,2 @@
-# DS
+# Dhruv Soni
 # I Am a student  at Sanjivani University currently pursuing a B.Tech degree with a specialization in Artificial Intelligence and Machine Learning (AI/ML). I Have Completed My 10th from Sanjivani Academy and 12th from SND JR Collage . I currently resides in Yeola and passionate about advancing my knowledge and skills in AI and ML. I am on a journey to become an expert in this rapidly evolving field, combining my technical education with a drive to innovate and contribute to the world of technology. 
